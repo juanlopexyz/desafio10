@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#home {
+  background: black;
+}
+
+#home p {
+  font-size: 40px;
+}
+
